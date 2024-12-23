@@ -9,4 +9,5 @@ saltstack/salt:3002.9
 freeipa/freeipa-server:centos-7-4.6.6
 
 freeipa/freeipa-server:centos-8-stream-4.9.12
+nacos/nacos-server:v2.4.3
 
