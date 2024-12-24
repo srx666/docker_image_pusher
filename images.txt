@@ -11,5 +11,6 @@ freeipa/freeipa-server:centos-8-stream-4.9.12
 nacos/nacos-server:v2.4.3
 siriuszg/nginx-ingress-controller:v1.11.3
 jettech/kube-webhook-certgen:v1.5.1
+ingress-nginx/kube-webhook-certgen:v1.1.1
 
 
