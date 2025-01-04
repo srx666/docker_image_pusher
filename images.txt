@@ -14,10 +14,11 @@
 # ingress-nginx/kube-webhook-certgen:v1.1.1
 # k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1@sha256:64d8c73dca984af206adf9d6d7e46aa550362b1d7a01f3a0a91b20cc67868660
 
-elasticsearch:8.12.1
-kibana:8.12.1
-logstash:8.12.1
-bitnami/zookeeper:latest
-bitnami/kafka:2.8.0
-hlebalbau/kafka-manager:latest
-flink:1.17.2
+# elasticsearch:8.12.1
+# kibana:8.12.1
+# logstash:8.12.1
+# bitnami/zookeeper:latest
+# bitnami/kafka:2.8.0
+# hlebalbau/kafka-manager:latest
+# flink:1.17.2
+leifengyang/sentinel
