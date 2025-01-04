@@ -21,4 +21,4 @@
 # bitnami/kafka:2.8.0
 # hlebalbau/kafka-manager:latest
 # flink:1.17.2
-leifengyang/sentinel
+leifengyang/sentinel:1.8.2
