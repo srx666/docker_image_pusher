@@ -21,4 +21,5 @@
 # bitnami/kafka:2.8.0
 # hlebalbau/kafka-manager:latest
 # flink:1.17.2
-leifengyang/sentinel:1.8.2
+# leifengyang/sentinel:1.8.2
+mongodb/mongodb-community-server:4.4.8-ubuntu2004
