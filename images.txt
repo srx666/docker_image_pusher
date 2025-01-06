@@ -24,4 +24,5 @@
 # leifengyang/sentinel:1.8.2
 # mongodb/mongodb-community-server:4.4.8-ubuntu2004
 # elasticsearch:7.13.4
-rabbitmq:3.8.1
+# rabbitmq:3.8.1
+openjdk:8-jdk
