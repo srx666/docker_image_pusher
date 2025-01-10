@@ -29,4 +29,6 @@
 # nacos/nacos-server:v2.2.0
 # kubespheredev/builder-maven:v3.3.1-jdk17
 # kubespheredev/builder-maven:v3.3.1-jdk17-podman
-openjdk:17
+# openjdk:17
+mysql:8.0.36
+
