@@ -37,5 +37,6 @@
 # redis:7.0.9
 # nginx:1.26.3
 # minio/minio:RELEASE.2025-02-18T16-25-55Z
-openproject/openproject:15.3.0
-
+# openproject/openproject:15.3.0
+easysoft/zentao:21.4
+mariadb:10.6
