@@ -41,6 +41,6 @@
 # easysoft/zentao:21.4
 # mariadb:10.6
 # apache/kafka:3.7.2
-confluentinc/cp-zookeeper:7.5.0
-confluentinc/cp-kafka:7.5.0
-
+# confluentinc/cp-zookeeper:7.5.0
+# confluentinc/cp-kafka:7.5.0
+apache/rocketmq:5.3.1
