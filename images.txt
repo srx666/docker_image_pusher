@@ -46,5 +46,8 @@
 # apache/rocketmq:5.3.1
 # apacherocketmq/rocketmq-dashboard:1.0.0
 # eclipse-mosquitto:latest
-apache/doris:be-2.1.9
-apache/doris:fe-2.1.9
+# apache/doris:be-2.1.9
+# apache/doris:fe-2.1.9
+selectdb/doris.k8s-operator:25.2.1
+
+
