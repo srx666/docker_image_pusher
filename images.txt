@@ -45,4 +45,6 @@
 # confluentinc/cp-kafka:7.5.0
 # apache/rocketmq:5.3.1
 # apacherocketmq/rocketmq-dashboard:1.0.0
-eclipse-mosquitto:latest
+# eclipse-mosquitto:latest
+apache/doris:be-2.1.9
+apache/doris:fe-2.1.9
