@@ -52,4 +52,5 @@
 # alpine:3.21.3
 # sonarqube:2025.3.0-enterprise
 # postgres:17.5
-bitnami/openldap:2.6.10
+# bitnami/openldap:2.6.10
+phpldapadmin/phpldapadmin:2.1.3
