@@ -49,5 +49,6 @@
 # apache/doris:be-2.1.9
 # apache/doris:fe-2.1.9
 # selectdb/doris.k8s-operator:25.2.1
-alpine:3.21.3
-
+# alpine:3.21.3
+sonarqube:2025.3.0-enterprise
+postgres:17.5
