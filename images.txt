@@ -54,4 +54,6 @@
 # postgres:17.5
 # bitnami/openldap:2.6.10
 # phpldapadmin/phpldapadmin:2.1.3
-osixia/phpldapadmin:0.9.0
+# osixia/phpldapadmin:0.9.0
+osixia/openldap:1.5.0
+
