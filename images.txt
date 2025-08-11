@@ -57,4 +57,5 @@
 # osixia/phpldapadmin:0.9.0
 # osixia/openldap:1.5.0
 # nacos/nacos-server:2.0.0
-elasticsearch:7.4.2
+# elasticsearch:7.4.2
+requarks/wiki:2.5
