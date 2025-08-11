@@ -59,4 +59,5 @@
 # nacos/nacos-server:2.0.0
 # elasticsearch:7.4.2
 # requarks/wiki:2.5
-nextcloud:31.0.7
+# nextcloud:31.0.7
+nextcloud:30
