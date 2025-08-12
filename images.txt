@@ -62,5 +62,7 @@
 # nextcloud:31.0.7
 # nextcloud:30
 # nextcloud:27.1.11
-nextcloud:25.0.13
+# nextcloud:25.0.13
+nextcloud:24.0.12
+nextcloud:23.0.12
 # onlyoffice/documentserver:9.0.4.1
