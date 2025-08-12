@@ -60,4 +60,5 @@
 # elasticsearch:7.4.2
 # requarks/wiki:2.5
 # nextcloud:31.0.7
-nextcloud:30
+# nextcloud:30
+onlyoffice/documentserver:9.0.4.1
