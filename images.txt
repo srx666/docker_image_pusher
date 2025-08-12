@@ -61,5 +61,6 @@
 # requarks/wiki:2.5
 # nextcloud:31.0.7
 # nextcloud:30
-nextcloud:27.1.11
+# nextcloud:27.1.11
+nextcloud:25.0.13
 # onlyoffice/documentserver:9.0.4.1
