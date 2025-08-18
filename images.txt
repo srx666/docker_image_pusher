@@ -65,5 +65,6 @@
 # nextcloud:25.0.13
 # nextcloud:24.0.12
 # nextcloud:23.0.12
-nextcloud:23
+# nextcloud:23
 # onlyoffice/documentserver:9.0.4.1
+xuxueli/xxl-job-admin:3.1.1
