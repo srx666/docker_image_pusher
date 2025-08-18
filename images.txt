@@ -67,4 +67,5 @@
 # nextcloud:23.0.12
 # nextcloud:23
 # onlyoffice/documentserver:9.0.4.1
-xuxueli/xxl-job-admin:3.1.1
+# xuxueli/xxl-job-admin:3.1.1
+openjdk:8-jre-slim
