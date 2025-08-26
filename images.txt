@@ -70,11 +70,11 @@
 # xuxueli/xxl-job-admin:3.1.1
 # openjdk:8-jre-slim
 
-postgres:12.3
-taigaio/taiga-back:6.8.3
-taigaio/taiga-front:6.8.2
-taigaio/taiga-events:6.7.0
-taigaio/taiga-protected:6.8.1
-rabbitmq:3.8-management-alpine
-nginx:1.19-alpine
-
+# postgres:12.3
+# taigaio/taiga-back:6.8.3
+# taigaio/taiga-front:6.8.2
+# taigaio/taiga-events:6.7.0
+# taigaio/taiga-protected:6.8.1
+# rabbitmq:3.8-management-alpine
+# nginx:1.19-alpine
+tomcat:9.0.108-jdk8-corretto
