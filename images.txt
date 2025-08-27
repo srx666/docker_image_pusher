@@ -77,4 +77,5 @@
 # taigaio/taiga-protected:6.8.1
 # rabbitmq:3.8-management-alpine
 # nginx:1.19-alpine
-tomcat:9.0.108-jdk8-corretto
+# tomcat:9.0.108-jdk8-corretto
+mysql:5.7.44
