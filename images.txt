@@ -84,4 +84,6 @@
 # caddy:2.10
 # ghcr.io/biru-scop/tenzu-front
 # ghcr.io/biru-scop/tenzu-back
-openjdk:17-alpine
+# openjdk:17-alpine
+docmost/docmost:0.22
+postgres:16-alpine
