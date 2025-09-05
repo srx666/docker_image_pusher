@@ -86,5 +86,6 @@
 # ghcr.io/biru-scop/tenzu-back
 # openjdk:17-alpine
 # docmost/docmost:0.22
-docmost/docmost:cloud-50
+# docmost/docmost:cloud-50
 # postgres:16-alpine
+portainer/portainer-ce:2.33.1-alpine
