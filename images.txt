@@ -91,4 +91,5 @@
 # portainer/portainer-ce:2.33.1-alpine
 # mattermost/focalboard:7.11.4
 # jwilder/nginx-proxy:alpine
-eclipse-temurin:17-jdk
+# eclipse-temurin:17-jdk
+sonatype/nexus3:3.84.0
