@@ -93,3 +93,4 @@
 # jwilder/nginx-proxy:alpine
 # eclipse-temurin:17-jdk
 sonatype/nexus3:3.84.0
+postgres:12.19-alpine
