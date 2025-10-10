@@ -92,7 +92,8 @@
 # mattermost/focalboard:7.11.4
 # jwilder/nginx-proxy:alpine
 # eclipse-temurin:17-jdk
-sonatype/nexus3:3.84.0
-postgres:12.19-alpine
-mariadb:11.4.8
-openjdk:17-jdk-bullseye
+# sonatype/nexus3:3.84.0
+# postgres:12.19-alpine
+# mariadb:11.4.8
+# openjdk:17-jdk-bullseye
+centos:7.6.1810
