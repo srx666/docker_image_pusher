@@ -96,4 +96,5 @@
 # postgres:12.19-alpine
 # mariadb:11.4.8
 # openjdk:17-jdk-bullseye
-centos:7.6.1810
+# centos:7.6.1810
+enmotech/opengauss:6.0.0
