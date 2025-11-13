@@ -99,4 +99,5 @@
 # centos:7.6.1810
 # enmotech/opengauss:6.0.0
 # rockylinux:9
-fedora:41
+# fedora:41
+oraclelinux:9-slim
