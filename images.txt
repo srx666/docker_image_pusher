@@ -98,4 +98,4 @@
 # openjdk:17-jdk-bullseye
 # centos:7.6.1810
 # enmotech/opengauss:6.0.0
-centos:9
+rockylinux:9
