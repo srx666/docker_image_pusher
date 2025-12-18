@@ -105,3 +105,4 @@
 
 apache/doris:1.2.2-fe-x86_64
 apache/doris:1.2.2-be-x86_64-noavx2
+minio/minio:RELEASE.2025-02-18T16-25-55Z-cpuv1
