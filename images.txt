@@ -101,4 +101,7 @@
 # rockylinux:9
 # fedora:41
 # oraclelinux:9-slim
-provectuslabs/kafka-ui:v0.7.2
+# provectuslabs/kafka-ui:v0.7.2
+
+apache/doris:1.2.2-fe-x86_64
+apache/doris:1.2.2-be-x86_64-noavx2
