@@ -107,5 +107,6 @@
 # apache/doris:1.2.2-be-x86_64-noavx2
 # minio/minio:RELEASE.2025-02-18T16-25-55Z-cpuv1
 # kubesphere/builder-base:v4.2.1
-redis:7.2.12
-qdrant/qdrant:v1.16.3-gpu-nvidia
+# redis:7.2.12
+# qdrant/qdrant:v1.16.3-gpu-nvidia
+qdrant/qdrant:v1.16.3
