@@ -109,4 +109,6 @@
 # kubesphere/builder-base:v4.2.1
 # redis:7.2.12
 # qdrant/qdrant:v1.16.3-gpu-nvidia
-qdrant/qdrant:v1.16.3
+# qdrant/qdrant:v1.16.3
+foxiswho/rocketmq:4.8.0
+iamverygood/rocketmq-console:4.7.1
